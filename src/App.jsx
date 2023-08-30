@@ -10,7 +10,7 @@ function App() {
     <BrowserRouter>
       <Navbar/>
       <Routes>
-        <Route path='/' exact Component={Home} />
+        <Route path='/landing' exact Component={Home} />
       </Routes>
       <Footer/>
     </BrowserRouter>
