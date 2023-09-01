@@ -118,6 +118,18 @@
         padding: 110px  0;
     }
 
+    .home__hero-img-wrapper{
+        width: 130px;
+        height: 50px;
+        margin-left: 15px;
+
+        img{
+            border: 0;
+            max-width: 100%;
+            vertical-align: middle;
+            display: inline-block;
+        }
+    }
 }
 
 @media screen  and (max-width: 400px) {
